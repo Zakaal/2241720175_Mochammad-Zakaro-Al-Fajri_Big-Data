@@ -1,7 +1,7 @@
 # 📚 Pengumpulan Tugas Big Data  
 Berisikan kumpulan laporan tugas mata kuliah ``Big Data``
 
-## 👨‍🎓🚀 Identitas Mahasiswa  
+## Identitas Mahasiswa  
 - **Nama**: Mochammad Zakaro Al Fajri  
 - **NIM**: 2241720175  
 - **Absen**: 10  
