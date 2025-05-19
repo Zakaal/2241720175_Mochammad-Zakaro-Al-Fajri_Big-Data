@@ -7,4 +7,3 @@ Berisikan kumpulan laporan tugas mata kuliah ``Big Data``
 - **Absen**: 10  
 - **Kelas**: TI 3D  
 - **Mata Kuliah**: Big Data  
-- **Dosen Pengampu**: M. Hasyim Ratsanjani, S.Kom., M.Kom.  
